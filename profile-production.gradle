@@ -1,0 +1,16 @@
+ext.buildEnvironment = 'prod'
+
+ext.dataFilesLocation = '/srv/gxa/data'
+
+// Database credentials, Solr connection parameters and log config file will be added via a local file in the classpath in Tomcat config
+ext.jdbcUrl = ''
+ext.jdbcUsername = ''
+ext.jdbcPassword = ''
+
+ext.zkHost = ''
+ext.zkPort = 0
+ext.solrHost = ''
+ext.solrPort = 0
+
+ext.testLogs = ''
+
