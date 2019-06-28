@@ -13,3 +13,6 @@ ext.solrPort = 8983
 
 ext.testLogs = 'STDOUT'
 
+ext.buildNumber = 42
+ext.buildBranch = 'dev'
+ext.buildRevision = 'dev'

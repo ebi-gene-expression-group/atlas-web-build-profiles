@@ -11,6 +11,3 @@ ext.zkHost = ''
 ext.zkPort = 0
 ext.solrHost = ''
 ext.solrPort = 0
-
-ext.testLogs = ''
-
