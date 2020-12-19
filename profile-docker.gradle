@@ -1,0 +1,18 @@
+ext.buildEnvironment = 'dev'
+
+ext.dataFilesLocation = '/atlas-data'
+
+ext.jdbcUrl = 'jdbc:postgresql://postgres:5432/gxpscxadev'
+ext.jdbcUsername = 'atlasprd3'
+ext.jdbcPassword = 'atlasprd3'
+
+ext.zkHost = 'zoo1'
+ext.zkPort = 2181
+ext.solrHost = 'solr1'
+ext.solrPort = 8983
+
+ext.testLogs = 'STDOUT'
+
+ext.buildNumber = 42
+ext.buildBranch = 'dev'
+ext.buildRevision = 'dev'
