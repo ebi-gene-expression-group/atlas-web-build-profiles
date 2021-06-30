@@ -2,9 +2,9 @@ ext.buildEnvironment = 'dev'
 
 ext.dataFilesLocation = '/atlas-data'
 
-ext.jdbcUrl = 'jdbc:postgresql://postgres:5432/gxpscxadev'
-ext.jdbcUsername = 'atlasprd3'
-ext.jdbcPassword = 'atlasprd3'
+ext.jdbcUrl = 'jdbc:postgresql://postgres:5432/gxpatlasloc'
+ext.jdbcUsername = 'atlas3dev'
+ext.jdbcPassword = 'atlas3dev'
 
 ext.zkHost = 'scxa-zk-1'
 ext.zkPort = 2181
